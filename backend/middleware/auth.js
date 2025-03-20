@@ -1,3 +1,3 @@
-const ErrorHandler =require("../utils/ErrorHandler");
-const catchAcyncErrors =require("./catchAsyncError");
-const jwt =require("jsonwebtoken");
+const ErrorHandler=require("../utils/ErrorHandler");
+const catchAsyncErrors=require("./catchAsyncErrors");
+const jwt=require("jsonwebtoken");
